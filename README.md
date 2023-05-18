@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Alex!
+<br/>
+
+
+#### HTML, CSS, JS, Python --- React.js, Next.js, Jquery --- MongoDB PostgreSQL
+<br/>
+
+####  - Born and raised in Italy :it:
+####  - Undergraduate Degree in Economics :chart:  :us:
+####  - Problem Solver 🤔
+####  - Team Player 👯
 
 <!--
 **AlexParis31/AlexParis31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
