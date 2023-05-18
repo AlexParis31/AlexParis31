@@ -1,14 +1,40 @@
-## Hi there, I'm Alex!
+## :wave: Hi there, I'm Alex!
 <br/>
 
+I am a full-stack software engineer, with an undegraduate degree in economics :man_student: and an international background :earth_americas:  
 
-#### HTML, CSS, JS, Python --- React.js, Next.js, Jquery --- MongoDB PostgreSQL
+
+
+#### My Skills:
+
+- Languages: HTML, CSS, JavaSscript, Python 
+
+- Frameworks: React.js, Next.js, Jquery
+
+
+- Databases: MongoDB PostgreSQL
+
+
+##### Currently Learning:
+- C ++
+- Ruby
+
 <br/>
 
-####  - Born and raised in Italy :it:
-####  - Undergraduate Degree in Economics :chart:  :us:
-####  - Problem Solver 🤔
-####  - Team Player 👯
+#### About Me
+- :it: Born and raised in Italy 
+- :us: :chart:  Undergraduate Degree in Economics 
+- :books: Insatiable thirst for knowledge.
+- 🤔 Problem Solver 
+- 👯 Team player but also extremely Competitive 
+
+<br/>
+
+#### Even More About Me
+- Portfolio: https://next-port-n5k2.vercel.app
+- Linkedin: www.linkedin.com/in/alexparisi-se/
+- GitHub: https://github.com/AlexParis31
+- Email: parisialexander@gmail.com
 
 <!--
 **AlexParis31/AlexParis31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
