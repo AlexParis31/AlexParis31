@@ -19,7 +19,8 @@ I am a full-stack software engineer, with an undegraduate degree in economics :m
 - C ++
 - Ruby
 
-<br/>
+
+
 
 #### About Me
 - :it: Born and raised in Italy 
@@ -28,7 +29,8 @@ I am a full-stack software engineer, with an undegraduate degree in economics :m
 - 🤔 Problem Solver 
 - 👯 Team player but also extremely Competitive 
 
-<br/>
+
+
 
 #### Even More About Me
 - Portfolio: https://next-port-n5k2.vercel.app
