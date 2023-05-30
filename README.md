@@ -9,7 +9,7 @@ I am a full-stack software engineer, with an undegraduate degree in economics :m
 
 - Languages: HTML, CSS, JavaSscript, Python 
 
-- Frameworks: React.js, Next.js, Jquery
+- Frameworks: React.js, Next.js, Jquery, Django
 
 
 - Databases: MongoDB PostgreSQL
