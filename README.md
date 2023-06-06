@@ -25,7 +25,7 @@ I am a full-stack software engineer, with an undegraduate degree in economics :m
 #### About Me
 - :it: Born and raised in Italy 
 - :us: :chart_with_upwards_trend:  Undergraduate Degree in Economics 
-- :books: Insatiable thirst for knowledge.
+- :books: Insatiable thirst for knowledge
 - 🤔 Problem Solver 
 - 👯 Team player but also extremely competitive 
 
