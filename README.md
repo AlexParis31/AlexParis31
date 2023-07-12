@@ -16,8 +16,9 @@ I am a full-stack software engineer, with an undegraduate degree in economics :m
 
 
 ##### Currently Learning:
+- Data Structures & Algorithms
 - C ++
-- Ruby
+
 
 
 
